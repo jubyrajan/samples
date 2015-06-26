@@ -6,7 +6,7 @@ Prerequisite: Install Docker
 
 Get java docker image: **sudo docker pull java**
 
-Get the Docker image for java extension image: ** wget https://raw.github.com/jubyrajan/samples/master/DockerJavaHelloWorld/Dockerfile **
+Get the Docker image for java extension image: wget https://raw.github.com/jubyrajan/samples/master/DockerExtendImageSampleJava/Dockerfile
 
 Build Docker Image: **sudo docker build -t "java_ext_test" .**
 
